@@ -1,0 +1,4 @@
+paramiko
+sshtunnel
+twisted
+requests

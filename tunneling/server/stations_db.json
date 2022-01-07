@@ -1,0 +1,1 @@
+[{"type": "station", "ip": "192.168.57.128", "port": 1337, "creds": {"type": "creds", "creds_type": "username_password_creds", "username": "ubuntu1", "password": "Password1"}}, {"type": "station", "ip": "192.168.57.130", "port": 1337, "creds": {"type": "creds", "creds_type": "username_password_creds", "username": "ubuntu3", "password": "Password1"}}]
